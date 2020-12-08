@@ -15,7 +15,7 @@
 2). Main App having different chat rooms.
 
 <p align = "center"> <br/>
-<img align="right" src="images/mainApp.png" alt="Leopard Detected" width="800px" height="500px">
+<img src="images/mainApp.png" alt="Leopard Detected" width="800px" height="500px">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Development
