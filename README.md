@@ -18,7 +18,7 @@
 <img align="left" src="images/mainApp.png" alt="Leopard Detected" width="800px" height="500px">
  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## Live on-
+## Live on
 https://whatsapp-clone-af5b7.web.app
 
 ## Development
