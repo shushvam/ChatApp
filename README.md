@@ -10,7 +10,7 @@
 
 <p align = "center"> <br/>
 <img align="left" src="images/login.png" alt="Main Screen" width="800px" height="500px">
- <br/><br/>
+ <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
  
 2). Main App having different chat rooms.
 <p align = "center"> <br/>
