@@ -13,11 +13,12 @@
  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
  
 2). Main App having different chat rooms.
+<br/><br/>
 <p align = "center"> <br/>
 <img align="right" src="images/mainApp.png" alt="Leopard Detected" width="800px" height="500px">
  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## Devlopment
+## Development
 
 ```
 $ npm install && npm start
