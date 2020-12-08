@@ -2,27 +2,19 @@
 - A WhatsApp web app clone with google authentication
 
 
-## Tech Stack
+## Technologies used
+ React js, Firebase for deploy, Firebase Firestore for database, Firebase Google Authentication, React Hooks, React Context API, React Router, styled-components, and material-ui icons
 
-- React js
-- Firebase for deploy
-- Firebase Firestore for database
-- Firebase Google Authentication
-- React Hooks
-- React Context API
-- React Router
-- styled-components
-- material-ui icons
+## Working
+1). Login page
 
-
-## Preview
-- https://whatsapp-web-app.web.app/
+<p align = "center"> <br/>
+<img align="left" src="images/main_screen.png" alt="Main Screen" width="350px" height="739px">
+<img align="right" src="images/leopard_detected.png" alt="Leopard Detected" width="350px" height="739px">
 
 ## Devlopment
 
 ```
-$ git clone https://github.com/robin025/whatsapp-clone-react.git
-$ cd whatsapp-web-app
 $ npm install && npm start
 ```
 
