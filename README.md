@@ -9,8 +9,8 @@
 1). Login page
 
 <p align = "center"> <br/>
-<img align="left" src="images/main_screen.png" alt="Main Screen" width="350px" height="739px">
-<img align="right" src="images/leopard_detected.png" alt="Leopard Detected" width="350px" height="739px">
+<img align="left" src="images/login.png" alt="Main Screen" width="350px" height="739px">
+<img align="right" src="images/mainApp.png" alt="Leopard Detected" width="350px" height="739px">
 
 ## Devlopment
 
