@@ -1,4 +1,4 @@
-# WhatsApp web app
+# WhatsApp-Clone web app
 - A WhatsApp web app clone with google authentication
 
 
