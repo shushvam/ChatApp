@@ -3,7 +3,7 @@
 
 
 ## Technologies used
- React js, Firebase for deploy, Firebase Firestore for database, Firebase Google Authentication, React Hooks, React Context API, React Router, styled-components, and material-ui icons
+ React js, Firebase for deploy, Firebase Firestore for database, Firebase Google Authentication, React Hooks, React Context API, React Router,React Redux, styled-components, and material-ui icons
 
 ## Working
 1). Login page
