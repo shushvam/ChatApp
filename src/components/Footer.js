@@ -9,7 +9,7 @@ function Footer() {
         <a className="" href="https://github.com/shushvam">
           <GitHubIcon className="github__logo" />
         </a>
-        <h3>Made My Shivam Dubey | 2020</h3>
+        <h3>Made By Shivam Dubey | 2020</h3>
         <p>
           <strong>Made Using React</strong>
         </p>
